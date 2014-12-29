@@ -587,21 +587,22 @@
     <!-- UI debug setting: show cpu usage summary [CHAR LIMIT=50] -->
     <string name="show_cpu_info_summary">Screen overlay showing current CPU info</string>
 
-    <!-- AOKP custom system animations -->  
-    <string name="aokp_animations_title">Custom system animations</string>  
-    <string name="activity_open_title">Activity open animation</string>  
-    <string name="activity_close_title">Activity close animation</string>  
-    <string name="task_open_title">Task open animation</string>  
-    <string name="task_close_title">Task close animation</string>  
-    <string name="task_move_to_front_title">Move to front snimation</string>  
-    <string name="task_move_to_back_title">Move to back snimation</string>  
-    <string name="wallpaper_open_title">Wallpaper open snimation</string>  
-    <string name="wallpaper_close_title">Wallpaper close snimation</string>  
-    <string name="wallpaper_intra_open_title">Wallpaper intra open snimation</string>  
-    <string name="wallpaper_intra_close_title">Wallpaper intra close snimation</string>  
-    <string name="animation_duration_title">Animation duration</string>  
-    <string name="title_animation_no_override">Prevent app overrides</string>  
-    <string name="summary_animation_no_override">Prevent apps from overriding transitions.</string>  
+    <!-- AOKP custom system animations -->
+    <string name="aokp_animations_title">Custom system animations</string>
+    <string name="activity_open_title">Activity open animation</string>
+    <string name="activity_close_title">Activity close animation</string>
+    <string name="task_open_title">Task open animation</string>
+    <string name="task_close_title">Task close animation</string>
+    <string name="task_move_to_front_title">Move to front animation</string>
+    <string name="task_move_to_back_title">Move to back animation</string>
+    <string name="wallpaper_open_title">Wallpaper open animation</string>
+    <string name="wallpaper_close_title">Wallpaper close animation</string>
+    <string name="wallpaper_intra_open_title">Wallpaper intra open animation</string>
+    <string name="wallpaper_intra_close_title">Wallpaper intra close animation</string>
+    <string name="task_open_behind_title">Task open behind animation</string>
+    <string name="animation_duration_title">Animation duration</string>
+    <string name="title_animation_no_override">Prevent app overrides</string>
+    <string name="summary_animation_no_override">Prevent apps from overriding transitions</string>
     <string name="animation_duration_default">Default</string>
     <string name="header_summary_animation">@null</string>
 

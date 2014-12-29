@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Copyright (C) 2014 crDroid Android
+<!-- Copyright (C) 2014 AOKP
+
+     Modified by crDroid Android
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -19,7 +21,7 @@
     android:title="@string/aokp_animations_title"
     xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
 
-        <CheckBoxPreference
+        <SwitchPreference
             android:key="animation_no_override"
             android:title="@string/title_animation_no_override"
             android:summary="@string/summary_animation_no_override" />
@@ -62,6 +64,10 @@
 
         <ListPreference
             android:key="wallpaper_intra_close"
+            android:title="@string/wallpaper_intra_close_title" />
+
+        <ListPreference
+            android:key="task_open_behind"
             android:title="@string/wallpaper_intra_close_title" />
 
         <com.android.settings.crdroid.AnimBarPreference
